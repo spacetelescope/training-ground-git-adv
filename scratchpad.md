@@ -1,4 +1,4 @@
-This file is used in the rebase exercise, now with a change! ...and another
+Maintainer changing this line
 
 Test.
 
